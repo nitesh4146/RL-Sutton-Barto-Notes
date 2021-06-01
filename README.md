@@ -6,3 +6,4 @@
 - Reward: The reward signal is the primary basis for altering the policy 
 - Value function: The value of a state is the total amount of reward an agent can expect to accumulate over the future, starting from that state. 
 - Reward vs Value: Rewards are in a sense primary, whereas values, as predictions of rewards, are secondary.
+- State: Formally, a state is a function of history

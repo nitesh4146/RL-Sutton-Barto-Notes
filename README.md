@@ -8,7 +8,7 @@
 - Reward vs Value: Rewards are in a sense primary, whereas values, as predictions of rewards, are secondary.
 - History: The history is a sequence of observation, actions, rewards
 
-![rl-problem](agent-env-model.png)
+![rl-problem](./images/agent-env-model.png)
 
 - State: Formally, a state is a function of history
 - The environment state is the environment's private state and is usually not visible to the agent

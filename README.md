@@ -13,3 +13,12 @@
 - State: Formally, a state is a function of history
 - The environment state is the environment's private state and is usually not visible to the agent
 - The agent state is the agent's internal representation
+
+
+
+
+
+# References:
+[1] Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto
+[2] UCL Course on RL by David Silver
+

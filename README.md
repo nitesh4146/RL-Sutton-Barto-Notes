@@ -19,6 +19,6 @@
 
 
 # References:
-[1] Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto
+[1] Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto  
 [2] UCL Course on RL by David Silver
 

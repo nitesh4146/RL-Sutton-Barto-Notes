@@ -10,6 +10,8 @@
   - Transitions: Predicts the next state
   - Rewards: Predicts the next (immediate) reward
 - History: The history is a sequence of observation, actions, rewards
+- RL is different from planning problem. In planning, the environment rules are known and the agent decision can be based on look-ahead or search   
+
 
 ![rl-problem](./images/agent-env-model.png)
 
@@ -29,7 +31,7 @@ Actor Critic - Both Value function + Policy
 Model Free - Policy and/or Value function, No env model  
 Model Based - Policy and/or Value function + Model  
 
-- RL is different from planning problem. In planning, the environment rules are known and the agent decision can be based on look-ahead or search  
+
 
 
 # References:

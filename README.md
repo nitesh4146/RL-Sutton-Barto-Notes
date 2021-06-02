@@ -13,21 +13,23 @@
 
 ![rl-problem](./images/agent-env-model.png)
 
-- State: Formally, a state is a function of history
+- State: Formally, a state is a function of history 
 - The environment state is the environment's private state and is usually not visible to the agent
 - The agent state is the agent's internal representation
-- Markov Property: The future is independent of the past given the present i.e. The state is a sufficient statistic of the future
+- Markov Property: The future is independent of the past given the present i.e. The state is a sufficient statistic of the future  
 
 ![category](./images/category.png)
 
-### 1. Categorizing RL Agents:
-Value Based - Only Value function + No policy (implicit)
-Policy Based - Only Policy + No Value function
-Actor Critic - Both Value function + Policy
+### 1. Categorizing RL Agents:  
+Value Based - Only Value function + No policy (implicit)  
+Policy Based - Only Policy + No Value function  
+Actor Critic - Both Value function + Policy  
 
-### 2. Categorizing RL Agents:
-Model Free - Policy and/or Value function, No env model
-Model Based - Policy and/or Value function + Model
+### 2. Categorizing RL Agents:  
+Model Free - Policy and/or Value function, No env model  
+Model Based - Policy and/or Value function + Model  
+
+- RL is different from planning problem. In planning, the environment rules are known and the agent decision can be based on look-ahead or search  
 
 
 # References:

@@ -31,7 +31,9 @@ Actor Critic - Both Value function + Policy
 Model Free - Policy and/or Value function, No env model  
 Model Based - Policy and/or Value function + Model  
 
-![value_tree](./images/value_tree.png)
+![value_tree](./images/value_tree.png) 
+![value_tree](./images/value_tree2.png) 
+![value_tree](./images/value_tree3.png)
 
 
 # References:

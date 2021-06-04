@@ -36,6 +36,11 @@ Model Based - Policy and/or Value function + Model
 ![value_tree](./images/value_tree3.png)
 ![value_tree](./images/value_tree4.png)
 
+### Dynamic Programming  
+- Predcition: Given a MDP (S,A,R,P,y) and a policy => Find v(s)   
+- Control: Given a MDP (S,A,R,P,y)  => Find v*(s) and this pi*  
+- For Prediction: Apply Bellman expectation equation   
+- For Control: Apply Bellman optimality equation
 
 # References:
 [1] Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto  
